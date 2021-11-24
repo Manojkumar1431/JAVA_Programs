@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+//removed braces for class
 
 public class Hello_world
 {
